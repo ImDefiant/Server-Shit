@@ -312,11 +312,6 @@ hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
-file = "mods/fabric-per-player-spawns.pw.toml"
-hash = "edc7853f08c824fb9c01b2ccc6a9b088ba78604a2f7191c7eff77c6b005b5e82"
-metafile = true
-
-[[files]]
 file = "mods/fastload.pw.toml"
 hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
@@ -444,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/scaffolding-extension.pw.toml"
 hash = "874068e6b6afcb67eb8174b1c6445a9e10f4b1a8b45729793aab09167eeb6b9e"
-metafile = true
-
-[[files]]
-file = "mods/secure-crops.pw.toml"
-hash = "12bc39a821a93bed4ef6e38231ed302a347b0b3f10d0c76e8e6ae7e9c98aaf15"
 metafile = true
 
 [[files]]
