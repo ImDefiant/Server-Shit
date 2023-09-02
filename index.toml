@@ -447,6 +447,11 @@ hash = "874068e6b6afcb67eb8174b1c6445a9e10f4b1a8b45729793aab09167eeb6b9e"
 metafile = true
 
 [[files]]
+file = "mods/secure-crops.pw.toml"
+hash = "f6e105fb222fc30d2e17f4e658231531a9c334a89038b9eb2d5638e4c23ea037"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
 metafile = true
