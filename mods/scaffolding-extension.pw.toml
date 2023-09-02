@@ -1,0 +1,13 @@
+name = "Scaffolding Extension"
+filename = "scaffolding-extension-1.1.6+MC1.19-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCRW61rP/versions/Slis3qsq/scaffolding-extension-1.1.6%2BMC1.19-1.20.1.jar"
+hash-format = "sha1"
+hash = "166fb0037ede7e4d62d3751ee21f505e67e4e931"
+
+[update]
+[update.modrinth]
+mod-id = "LCRW61rP"
+version = "Slis3qsq"

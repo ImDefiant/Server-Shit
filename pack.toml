@@ -1,0 +1,13 @@
+name = "Server Shit"
+author = "ImDefiant"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ede04e6564da8f89425611dbb1394e176254bdeedd3906aa9c00ca518728b2d6"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

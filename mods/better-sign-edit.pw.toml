@@ -1,0 +1,13 @@
+name = "Better Sign Edit"
+filename = "better-sign-edit-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34ad0d692d4d698fb6f46d6da49480fac4569ed2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4589589
+project-id = 875721

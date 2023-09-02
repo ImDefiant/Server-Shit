@@ -1,0 +1,13 @@
+name = "Blasting Plus"
+filename = "blasting-plus-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bSKJNoQF/versions/pw8rOEu5/blasting-plus-1.1.jar"
+hash-format = "sha1"
+hash = "6c7f15beb6377dc3866498115605f8edf25b5160"
+
+[update]
+[update.modrinth]
+mod-id = "bSKJNoQF"
+version = "pw8rOEu5"

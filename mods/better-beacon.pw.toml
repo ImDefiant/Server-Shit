@@ -1,0 +1,13 @@
+name = "Better Beacon / Conduit"
+filename = "betterbeacon-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0fb743de157df963541f89f92ba559df8747305"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326914
+project-id = 444555
