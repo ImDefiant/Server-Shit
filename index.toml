@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/secure-crops.pw.toml"
-hash = "f6e105fb222fc30d2e17f4e658231531a9c334a89038b9eb2d5638e4c23ea037"
+hash = "12bc39a821a93bed4ef6e38231ed302a347b0b3f10d0c76e8e6ae7e9c98aaf15"
 metafile = true
 
 [[files]]
