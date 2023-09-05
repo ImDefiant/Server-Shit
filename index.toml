@@ -33,10 +33,6 @@ file = "config/betterconduitplacement.json5"
 hash = "9fb86e980d7adc56fd4ed057e6c5eb75b71563ab798bd1fce8323435c821eae9"
 
 [[files]]
-file = "config/betterleads.toml"
-hash = "011b78f5c93a064cc7a69f725c8ac463f331d74fb7432dc9e86e73fee17449ce"
-
-[[files]]
 file = "config/bigendcitiesmodconfig.properties"
 hash = "b9b57d5f427a3fe15bfd009a13c057f5afdd41d58c7304f88e973c8a6b9f25ab"
 
@@ -138,11 +134,11 @@ hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "20f8b2498e7c8b8de59f1dd30ee093b60a4d36a6da6d940a45c87cd3868298f0"
+hash = "3f7d72ba47fc2dded9abac4df53416d7548fb7b2383b4310f7e63d571bac1bb4"
 
 [[files]]
 file = "config/polymer/server.json"
-hash = "8dda745385a635e22e8ce122ccd81bd3afb6c2204efaf177c696c7b6c2950ebc"
+hash = "2613cd7e40cfaceab4d6cac3bec496dfc4573e6126377e54d545df7a04395690"
 
 [[files]]
 file = "config/replantingcrops.json5"
@@ -161,6 +157,10 @@ file = "config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
+file = "config/statement/config.json"
+hash = "de2fcddc0e1e88a36556efbda6694966c6eae8f3a422162f8d2b5832b813b7d7"
+
+[[files]]
 file = "config/treeharvester.json5"
 hash = "74c8a80dc75b741a25367add9d6f75751d1e6cdb34cfe99ab44a09d716352b04"
 
@@ -170,7 +170,27 @@ hash = "66d6070eff69e52e97721c04f2945e8ef0e54f199ff7ede2a78cc2c6777a5e95"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "af51d32f023f14aa9f01a13e3df98d3f04f770413dc3df24459f8be8fd1bd33a"
+hash = "97b1c990598e45fb7423d3f5d6f9db827d4b96f1d1ecbc4ac98399e9e1d237e7"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+hash = "7a5d06bb65a05beabb48f74a7f9aead1ddd88cbed5033ce8a284c1504a545eac"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+hash = "6f8b61ca512ac41462824a4642e2019abdb6778e79d3925a818924233e532a75"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+hash = "c21378801d8da7d70190fb72cf91afcb4bc67d1e49e65d210018a078b5c6d90c"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "config/universal-graves/models/example.json"
