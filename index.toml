@@ -237,11 +237,6 @@ hash = "6ebdd9815b395472433f450c7f3135bb8e6aae40ec86b1495f00327d64fce6c2"
 metafile = true
 
 [[files]]
-file = "mods/bigger-sponge-absorption-radius.pw.toml"
-hash = "d7c01cd93c2a198973b9cd2ffbc600ca084ca07a0fa3cb9fb34e2d93435dead2"
-metafile = true
-
-[[files]]
 file = "mods/blasting-plus.pw.toml"
 hash = "806a1a53faf302b78b85155c61b8fc5cae771597f5b163298fd9e3b7d4667686"
 metafile = true
@@ -319,11 +314,6 @@ metafile = true
 [[files]]
 file = "mods/end-portal-recipe.pw.toml"
 hash = "4a4efb5823aeeeba72dee80806bb9bfaf0d6ca3fc91c356ba43490def0954ad4"
-metafile = true
-
-[[files]]
-file = "mods/extended-bone-meal.pw.toml"
-hash = "797214f52e92b346486be5e0a5c98858644ee310ea37baf98abd253fd0812a8e"
 metafile = true
 
 [[files]]
