@@ -198,7 +198,7 @@ hash = "9e9363b1ffafbb1dd8b9c53c77311eddb37697ca48d3b287291ff5573fe48352"
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
+hash = "ad35428bf0c058dd5dff4d92fe2467d219d460ffd1f7216a6e98dc188935c97c"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c1f8f41882416f428df817680e011795b56e1894594fd663eba03e48b56fbdc6"
+hash = "fc47c198490faa6448c404d5d80c7ab7afc4481ec005a137733efb4d41aadd9c"
 metafile = true
 
 [[files]]
