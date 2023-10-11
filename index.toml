@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
+hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/invview.pw.toml"
-hash = "9c440b128787446aceeac944eb692793dd24e4596c23d0adfd64a76706ca774d"
+hash = "c130a744cedcccadda21f8e06f0c01f5661984a5652706c2b617b825a8745491"
 metafile = true
 
 [[files]]
